@@ -1,5 +1,3 @@
-"""Author : Gonzalo Fernandez"""
-
 import io
 import pandas as pd
 import paramiko
@@ -15,6 +13,7 @@ import getpass
 from datetime import datetime, timedelta
 import datetime
 
+"""Author : Gonzalo Fernandez"""
 
 def filter_logs(filename):
 
