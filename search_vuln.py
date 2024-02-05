@@ -4,7 +4,7 @@ from colorama import Fore, Style
 from tabulate import tabulate
 
 # Constantes para configuración
-API_KEY = "6BD0E888-A4C2-EE11-833E-12CE960CE632"
+API_KEY = ""
 NVD_API_URL = "https://services.nvd.nist.gov/rest/json/cves/2.0"
 
 # Función para consultar CVE por CPE
